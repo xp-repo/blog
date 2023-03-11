@@ -1,5 +1,5 @@
-title: Blog
-description: My Blog
+title: 小鹏技术博客
+description: 有梦想，有希望
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
